@@ -115,7 +115,7 @@ git add ./추가해야할것
 git commit -m "나의 첫 커밋"
 ```
 
-![Untitled](Git%20(%E1%84%87%E1%85%A9%E1%84%8E%E1%85%AE%E1%86%BC%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%B8)%20dc233d71c74544afb61d654ec6de0f0e/Untitled.png)
+![Untitled](./img/Untitled.png)
 
 vscode의 기능 중 마지막 커밋으로 돌리기가 있다.! (소스 트리)
 
@@ -137,7 +137,7 @@ git push -u origin master
 
 github의 commits
 
-![Untitled](Git%20(%E1%84%87%E1%85%A9%E1%84%8E%E1%85%AE%E1%86%BC%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%B8)%20dc233d71c74544afb61d654ec6de0f0e/Untitled%201.png)
+![Untitled](./img/Untitled%201.png)
 
 ---
 
