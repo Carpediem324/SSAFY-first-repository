@@ -147,4 +147,25 @@ branch 파서 full request하거나 이전 버전으로 돌리거나.. 많은 �
 
 # 7. README.md
 
-md는 Markdown
+md는 Markdown언어로 작성하는 레포지토리 설명페이지이다!
+
+# 8. git clone
+
+레포지토리를 복사해오는 것이다.
+
+```bash
+git clone 주소
+```
+
+# 9. git pull
+
+이미 clone해온 패키지가 업데이트되었다면?
+
+지우고 clone하지말고 pull하자!!
+
+(이미 컴퓨터에 해당 레포지토리가 존재해야 한다)
+
+```bash
+git pull origin master
+```
+
