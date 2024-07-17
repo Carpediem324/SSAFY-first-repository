@@ -211,3 +211,17 @@ add를 안했다면?
 Untracked files로 뜸
 
 add를 했다면?
+Changes to be committed로 뜸
+
+### commit이 잘되어있는지 확인하려면?
+
+```bash
+git log --oneline
+```
+commit hash를 확인할 수 있다.
+
+# git revert
+이전 커밋으로 돌아가고 싶다면?
+```bash
+내용
+```
