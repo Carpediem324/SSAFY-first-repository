@@ -191,3 +191,23 @@ git pull origin master
 
 2. .gitignore에 .env파일을 예외처리한다
 
+많이 중요하다. 프로젝트 생성할 때 쓰고 시작하거나 자동생성된다.
+
+venv같은 것은 .gitignore처리가 필수다.
+
+vue.js에서는 node_modules를 무조건 예외처리한다.
+
+# 13. git status / git log --oneline
+
+실수를 되돌리기 위해 있는 기능.
+
+파일 변경 후 
+```bash
+git status
+```
+입력 시 변경 사항 확인 가능.
+
+add를 안했다면? 
+Untracked files로 뜸
+
+add를 했다면?
