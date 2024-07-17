@@ -223,10 +223,5 @@ commit hash를 확인할 수 있다.
 # git revert
 이전 커밋으로 돌아가고 싶다면?
 ```bash
-<<<<<<< HEAD
 git revert 해쉬
 ```
-=======
-내용
-```
->>>>>>> parent of aa8d804 (임시저장)
