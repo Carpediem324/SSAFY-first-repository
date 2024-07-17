@@ -220,8 +220,12 @@ git log --oneline
 ```
 commit hash를 확인할 수 있다.
 
+내역이 많으면 vi편집기로 열리니 q 치기
 # git revert
 이전 커밋으로 돌아가고 싶다면?
+만약 push까지 햇다면?
+
+git log --oneline으로 확인
 ```bash
-내용
+git revert 8e446d1
 ```
